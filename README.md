@@ -11,6 +11,7 @@ run hacking and brute-force programs that are extremly powerful
 6. Python3
 7. Pip3
 8. tqdm
+9. Arp-scan
 
 ## Installation
 Once you have the needed programs, you can run these commads:
